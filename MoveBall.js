@@ -94,7 +94,7 @@ class MoveBall extends React.Component {
 	 					  yInc: true,
 	 					  xSpeed: 5,
 	 					  ySpeed: 5,
-	 					  diameter: 60,
+	 					  diameter: 30,
 	            seconds: 0,
 				});
 			}
